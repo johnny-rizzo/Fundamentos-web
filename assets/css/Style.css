@@ -7,8 +7,8 @@
 
 .titulo{
 
-   
-   text-align:center;
+    justify-content: space-between;
+    text-align:center;
 
 }
 
@@ -53,4 +53,5 @@ padding: 15px;
     height: 30px;
     
 }
+
 /*Estilos de pagina contato.html*/
